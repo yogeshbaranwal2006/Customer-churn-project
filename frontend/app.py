@@ -8,6 +8,20 @@ st.set_page_config(
 
 st.title("Customer Churn Prediction System")
 
+st.sidebar.title("About Project")
+
+
+st.sidebar.info("""
+Customer Churn Prediction & Recommendation System
+
+• Predict customer churn probability  
+• Segment customers using KMeans  
+• Generate recommendations  
+• FastAPI + Streamlit integration  
+• Machine Learning based solution                             
+""")
+
+
 st.write("Predict customer churn and generate recommendations")
 
 
