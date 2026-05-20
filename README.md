@@ -16,16 +16,16 @@ The system combines:
 
 ## Features
 
-✅ Customer churn prediction  
-✅ Churn probability score  
-✅ Customer segmentation using KMeans  
-✅ Recommendation engine  
-✅ Feature engineering pipeline  
-✅ FastAPI REST API  
-✅ Interactive Streamlit UI  
-✅ Swagger API documentation  
-✅ Saved ML models using Joblib  
-✅ Ready for deployment
+1. Customer churn prediction  
+2. Churn probability score  
+3. Customer segmentation using KMeans  
+4. Recommendation engine  
+5. Feature engineering pipeline  
+6. FastAPI REST API  
+7. Interactive Streamlit UI  
+8. Swagger API documentation  
+9. Saved ML models using Joblib  
+10. Ready for deployment
 
 ---
 
